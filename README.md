@@ -13,13 +13,12 @@ Make sure you have the following installed on your system:
 ## Create a two directory for wordpress files and SQL files
 ```bash
   mkdir wordpress db
-## Prerequisites
 
+## Make the system UP
 ```bash
   docker-compose up -d
-## Prerequisites
 
+## Check the system is running propely or not?
 ```bash
   docker images
-```bash
   docker ps
