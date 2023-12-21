@@ -15,10 +15,10 @@ Make sure you have the following installed on your system:
   mkdir wordpress db
 
 ## Make the system UP
-```bash
+
   docker-compose up -d
 
 ## Check the system is running propely or not?
-```bash
+
   docker images
   docker ps
