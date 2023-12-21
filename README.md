@@ -9,11 +9,12 @@ Make sure you have the following installed on your system:
 
 - [killerkoda](https://killercoda.com/)
 - [Docker Compose]
-- ```bash
+  
+```bash
   mkdir wordpress db
-  ```bash
-docker-compose up -d
 ```bash
-docker images
+  docker-compose up -d
 ```bash
-docker ps
+  docker images
+```bash
+  docker ps
