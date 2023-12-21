@@ -1,4 +1,6 @@
-# Installing wordpress via container
-# wordpressinstall
+# Installing wordpress via container... follow the commands
 
-# wordpressinstall
+mkdir wordpress db
+docker-compose up -d
+docker images
+docker ps
